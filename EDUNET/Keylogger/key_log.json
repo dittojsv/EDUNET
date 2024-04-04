@@ -1,0 +1,44 @@
+[
+    {
+        "Pressed": "Key.print_screen"
+    },
+    {
+        "Released": "Key.print_screen"
+    },
+    {
+        "Pressed": "h"
+    },
+    {
+        "Released": "'h'"
+    },
+    {
+        "Pressed": "e"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "l"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Pressed": "l"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Pressed": "o"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Pressed": "Key.ctrl_l"
+    },
+    {
+        "Pressed": "\u0003"
+    }
+]
